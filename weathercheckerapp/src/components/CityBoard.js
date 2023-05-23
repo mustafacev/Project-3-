@@ -5,7 +5,8 @@ const CityBoard = (props) => {
   return (
     <div>
       <img src="./icon/perfect-day.svg" alt="weathergood" />
-      <span className="select-city">Find Weather of your city</span>
+      <br></br>
+      <span className="select-city">Check Your City</span>
       <form onSubmit={fetchData}>
         <input onChange={(e) => getCityData(e.target.value)}
           placeholder="City" />
