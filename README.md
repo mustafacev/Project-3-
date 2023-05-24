@@ -8,5 +8,3 @@ Furthermore, the app  allowing users to quickly access weather data for their pr
 Mongoose Express React Node HTML/CSS/JS Render Netlify,TEST2
 
 # ScreenSHoots 
-![WeatherCheckAPP](https://github.com/mustafacev/Project-3-/assets/122946494/cb2e0a5d-d062-4ddd-a0d7-84216c6cd7d7)
-![weathercheckerapp](https://github.com/mustafacev/Project-3-/assets/122946494/984238f2-7143-4567-b2f3-3a89cd91ac26)
