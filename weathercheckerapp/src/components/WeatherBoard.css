@@ -1,0 +1,50 @@
+.InfoContainer {
+    display: flex;
+    align-items: center;
+    margin-bottom: 10px;
+}
+
+.InfoLabel {
+    font-size: 14px;
+}
+
+.weather-condition {
+    display: flex;
+    align-items: center;
+    margin-bottom: 10px;
+}
+
+.weather-condition .details {
+    margin-right: 10px;
+}
+
+.weather-condition .details span {
+    font-weight: bold;
+}
+
+.weather-condition img {
+    width: 50px;
+    height: 50px;
+    margin-left: 10px;
+}
+
+.city {
+    font-size: 20px;
+    font-weight: bold;
+    margin-bottom: 10px;
+}
+
+.WeatherInfoLabel {
+    font-size: 16px;
+    font-weight: bold;
+    margin-bottom: 10px;
+}
+
+.WeatherInfoContainer {
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.WeatherInfoContainer .InfoContainer {
+    margin-right: 10px;
+}
