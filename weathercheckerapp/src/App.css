@@ -1,10 +1,20 @@
+body {
+  margin: 0;
+  padding: 0;
+  background-image: url('background_sky.jpg');
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center;
+}
+
 .main-container {
   display: flex;
   flex-direction: column;
-  align-items: center;
   justify-content: center;
-  height: 100vh;
-  background-color: #f0f0f0;
+  align-items: center;
+  min-height: 100vh;
+  padding: 20px;
+  box-sizing: border-box;
 }
 
 .App-header {
@@ -20,7 +30,7 @@
 
 @media (prefers-reduced-motion: no-preference) {
   .App-logo {
-    animation: App-logo-spin infinite 20s linear;
+      animation: App-logo-spin infinite 20s linear;
   }
 }
 
@@ -40,10 +50,9 @@
 
 @keyframes App-logo-spin {
   from {
-    transform: rotate(0deg);
+      transform: rotate(0deg);
   }
-
   to {
-    transform: rotate(360deg);
+      transform: rotate(360deg);
   }
 }
