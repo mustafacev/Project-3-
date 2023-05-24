@@ -5,8 +5,7 @@ Furthermore, the app  allowing users to quickly access weather data for their pr
 
 # Technologies Used
 
-Mongoose Express React Node HTML/CSS/JS Render Netlify,TEst
-
+Mongoose Express React Node HTML/CSS/JS Render Netlify
 
 # ScreenSHoots 
 ![WeatherCheckAPP](https://github.com/mustafacev/Project-3-/assets/122946494/cb2e0a5d-d062-4ddd-a0d7-84216c6cd7d7)
