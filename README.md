@@ -5,7 +5,7 @@ Furthermore, the app  allowing users to quickly access weather data for their pr
 
 # Technologies Used
 
-Mongoose Express React Node HTML/CSS/JS Render Netlify
+Mongoose Express React Node HTML/CSS/JS Render Netlify,TEst
 
 
 # ScreenSHoots 
