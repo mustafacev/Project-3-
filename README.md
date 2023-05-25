@@ -11,8 +11,12 @@ Furthermore, the app  allowing users to quickly access weather data for their pr
 # As a user, I should be able to gain an idea of weather conditions by viewing the images for each day.
 
 # Technologies Used
-React,Node,HTML/CSS/JS,Render,Netlify,Bootstrap
+React,Node,HTML/CSS/JS,Render,Netlify,Bootstrap.
+OpenWhethermap API for weather details and icons & react-icons for weather condition icons.
 
 # ScreenShots 
 ![weather2](https://github.com/mustafacev/Project-3-/assets/122946494/6b9401dc-8d33-4496-8bea-288cf63e091e)
 ![Weather](https://github.com/mustafacev/Project-3-/assets/122946494/17ff2339-7867-41f8-beb8-f3067fb73f87)
+
+# linkfor this Project
+https://main--weathercheckerapps.netlify.app/
