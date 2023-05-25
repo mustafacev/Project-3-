@@ -71,7 +71,7 @@ const WeatherForcast = ({ city }) => {
 
   return (
     <div>
-      <h5 classname="forcast-title">Next 5 days Weather Forecast for {city}</h5>
+      <h5 className="forcast-title">Next 5 days Weather Forecast for {city}</h5>
       <div className="forecast-container">
         {dailyForecasts.map((data) => (
           <div key={data.date} className="forecast-card">
