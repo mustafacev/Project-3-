@@ -4,7 +4,7 @@ In this project,I have builded user-friendly application that enables
  users to access up-to-date temperature information and a five days weather forecast for a specific location.
 Furthermore, the app  allowing users to quickly access weather data for their preferred places directly from the home page.
 
-# Project summary
+# Project Overview
 
     As a user, I should also be able to search location on the homepage.
     As a user, I should be able to view the weather data for that specific location.
