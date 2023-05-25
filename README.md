@@ -4,10 +4,10 @@ In this project, I have builded user-friendly application that enables users to 
 Furthermore, the app  allowing users to quickly access weather data for their preferred places directly from the home page.
 
 # Project summary
--As a user, I should also be able to search location on the homepage.
--As a user, I should be able to view the weather data for that specific location.
--Search functionality: Users should be able to easily search for weather based on location.
--As a user, I should be able to gain an idea of weather conditions by viewing the images for each day.
+"*"As a user, I should also be able to search location on the homepage.
+"*"As a user, I should be able to view the weather data for that specific location.
+"*"Search functionality: Users should be able to easily search for weather based on location.
+"*"As a user, I should be able to gain an idea of weather conditions by viewing the images for each day.
 
 # Technologies Used
 React,Node,Express, HTML/CSS/JS,Render,Netlify,Bootstrap
