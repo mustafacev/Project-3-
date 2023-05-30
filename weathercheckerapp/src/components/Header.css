@@ -1,9 +1,9 @@
 .header {
-    background-color: #484848;
-    padding: 20px;
+    background: rgb(24, 134, 171);
+    padding: 30px;
 }
 
 .header-title {
-    color: #fff;
+    color: #ffffff;
     margin: 0;
 }
