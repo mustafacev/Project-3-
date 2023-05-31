@@ -66,7 +66,7 @@ const WeatherForcast = ({ city }) => {
     .map((forecasts) => ({
       date: new Date(forecasts[0].dt * 1000).toLocaleDateString(),
       temperature: calculateAverageTemperature(forecasts),
-      iconCode: forecasts[0].weather[0].icon,
+      iconCode: forecasts[0].weather[0].icon.replace("n","d"),
     }));
 
   return (
